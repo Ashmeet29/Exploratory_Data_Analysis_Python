@@ -33,7 +33,7 @@ The challenge lies in understanding sales patterns, top-performing products, cus
 - Converted data types (date, numeric values).
 - Standardized column names for consistency.
 
-## 2. Exploratory Data Analysis (EDA):
+## 2. Exploratory Data Analysis (EDA)
 - Univariate Analysis – distributions of sales, profit, quantity.
 - Bivariate Analysis – relation between discounts and profit.
 - Trend Analysis – sales and profit over time.
@@ -48,17 +48,17 @@ The challenge lies in understanding sales patterns, top-performing products, cus
 - Heatmaps for correlations.
 
 # Insights & Observations:  
-Sales & Profitability:
+## 1) Sales & Profitability
 Overall sales show an increasing trend, but profits fluctuate due to high discounting in certain categories.
-## 1) Regional & State Performance:
+## 2) Regional & State Performance:
 A few states contribute the majority of sales, while several underperform consistently.
-## 2) Discount Impact:
+## 3) Discount Impact:
 Higher discounts negatively impact profit margins — especially in technology and furniture segments.
-## 3) Product Analysis:
+## 4) Product Analysis:
 Certain products drive high revenue but yield very low or even negative profit margins.
-## 4) Customer Behavior:
+## 5) Customer Behavior:
 Repeat customers form a smaller portion but contribute significantly to revenue, showing potential for loyalty programs.
-## 5) Categories:
+## 6) Categories:
 - Most Profitable → Technology (Copiers, Phones, Accessories)
 - Least Profitable → Office Supplies & certain Furniture items (Tables, Bookcases)
 - Top Locations: High sales in California, New York, Texas; lowest in Wyoming, West Virginia, North Dakota.
