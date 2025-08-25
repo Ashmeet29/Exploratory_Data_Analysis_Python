@@ -48,7 +48,7 @@ The challenge lies in understanding sales patterns, top-performing products, cus
 - Heatmaps for correlations.
 
 # Insights & Observations:  
-1) Sales & Profitability
+1) Sales & Profitability:
 Overall sales show an increasing trend, but profits fluctuate due to high discounting in certain categories.
 2) Regional & State Performance:
 A few states contribute the majority of sales, while several underperform consistently.
