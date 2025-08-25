@@ -58,6 +58,7 @@ Higher discounts negatively impact profit margins — especially in technology a
 Certain products drive high revenue but yield very low or even negative profit margins.
 5) Customer Behavior:
 Repeat customers form a smaller portion but contribute significantly to revenue, showing potential for loyalty programs.
+
 6) Categories:
 - Most Profitable → Technology (Copiers, Phones, Accessories)
 - Least Profitable → Office Supplies & certain Furniture items (Tables, Bookcases)
